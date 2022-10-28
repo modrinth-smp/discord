@@ -25,7 +25,7 @@
             - name: 2. Punishment evasion.
               value: "Punishment evasion (attempting to evade punishment for breaking the rules) will be met with a permanent ban."
 
-            - name: 3. Don't exploit accessability tools/bots.
+            - name: 3. Don't exploit accessibility tools/bots.
               value: "Exploiting or misusing these tools, such as using PluralKit for roleplaying, will be met with appropriate punishment."
 
             - name: 4. English only.
