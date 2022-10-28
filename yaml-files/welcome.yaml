@@ -16,7 +16,7 @@
       - title: ":police_car: Rules"
         color: 0x1bd96a
         description: >
-            Modrinth SMP's rules *include* the [official Modrinth server]()'s rules, but also have Minecraft-specific rules as well.
+            Modrinth SMP's rules *include* the [official Modrinth server](https://discord.gg/EUHuJHt)'s rules, but also have Minecraft-specific rules as well.
 
         fields:
             - name: 1. No hacking.
