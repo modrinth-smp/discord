@@ -1,0 +1,49 @@
+# based on modrinth's welcome channel
+
+- type: text
+  text: https://raw.githubusercontent.com/modrinth-smp/art/main/branding/banner/banner_512h.png
+
+- type: embed
+  embeds:
+      - title: Welcome to Modrinth SMP's Discord server!
+        color: 0x1bd96a
+        description: >
+            Modrinth SMP serves as the unofficial SMP experience for Modrinth, made for and by community members! This project is not at all
+            affiliated with Modrinth, but members of the Modrinth team may still play on the server and talk with the community here.
+
+- type: embed
+  embeds:
+      - title: ":police_car: Rules"
+        color: 0x1bd96a
+        description: >
+            Modrinth SMP's rules *include* the [official Modrinth server]()'s rules, but also have Minecraft-specific rules as well.
+
+        fields:
+            - name: 1. No hacking.
+              value: "Don't hack! This isn't an anarchy server, so no one wants you to cheat here."
+
+            - name: 2. Punishment evasion.
+              value: "Punishment evasion (attempting to evade punishment for breaking the rules) will be met with a permanent ban."
+
+            - name: 3. Don't exploit accessability tools/bots.
+              value: "Exploiting or misusing these tools, such as using PluralKit for roleplaying, will be met with appropriate punishment."
+
+            - name: 4. English only.
+              value: "Unfortunately, our moderators can only reliably moderate in English."
+
+            - name: 5. Follow the official Modrinth server's rules.
+              value:
+                  "This one covers all of the basic rules for the Discord server. If you don't know the rules,
+                  you can find them [here](https://discord.gg/EUHuJHt)!"
+
+            - name: 6. Follow Discord's community guidelines.
+              value:
+                  "Follow Discord's [community guidelines](https://discord.com/guidelines) and [terms of service](https://discord.com/terms).
+                  Failure to do so could result from anything from a warning to a permanent ban."
+
+- type: links
+  title: ":link: Links"
+  color: 0x1bd96a
+  links:
+      GitHub: https://github.com/modrinth-smp
+      Modpack: https://github.com/modrinth-smp/pack
