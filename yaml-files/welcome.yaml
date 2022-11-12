@@ -27,16 +27,19 @@
 
             - name: 3. Don't exploit accessibility tools/bots.
               value: "Exploiting or misusing these tools, such as using PluralKit for roleplaying, will be met with appropriate punishment."
+              
+            - name: 4. Don't exploit mods.
+              value: "Do not use bugs in mods to exploit the server."
 
-            - name: 4. English only.
+            - name: 5. English only.
               value: "Unfortunately, our moderators can only reliably moderate in English."
 
-            - name: 5. Follow the official Modrinth server's rules.
+            - name: 7. Follow the official Modrinth server's rules.
               value:
                   "This one covers all of the basic rules for the Discord server. If you don't know the rules,
                   you can find them [here](https://discord.gg/EUHuJHt)!"
 
-            - name: 6. Follow Discord's community guidelines.
+            - name: 8. Follow Discord's community guidelines.
               value:
                   "Follow Discord's [community guidelines](https://discord.com/guidelines) and [terms of service](https://discord.com/terms).
                   Failure to do so could result in anything from a warning to a permanent ban."
