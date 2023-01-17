@@ -36,7 +36,7 @@
 
             - name: 6. No griefing.
               value:
-                  "Griefing of any kind not enjoyed by the person getting griefed, including destroying of creations and stealing, is not allowed."
+                  "Griefing of any kind not explicitly permitted by the person getting griefed, including destruction of another person's builds or creations, as well as stealing, is not allowed."
 
             - name: 7. Follow the official Modrinth server's rules.
               value:
