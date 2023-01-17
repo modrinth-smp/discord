@@ -34,13 +34,9 @@
             - name: 5. English only.
               value: "Unfortunately, our moderators can only reliably moderate in English."
 
-            - name: 6. Don't abuse the rep system.
+            - name: 6. No griefing.
               value:
-                  "The rep system lets everyone know your 'reputation' on the server. If you've helped other people, they can upvote you, and
-                  if you've done something not so helpful like griefing, killing, etc. they can downvote you. Each action has to have a reason specified.
-                  Invalid reasons are things like 'being nice' and 'being mean', whereas valid reasons are 'they killed me and took my items' or
-                  'they helped me build my base'. Admins can check these logs, so be reasonable, or else we may have to take action against you,
-                  or reset their rep to the previous value. Fabric Reputation System can be found [here](https://modrinth.com/mod/fabric-rep-system)."
+                  "Griefing of any kind not enjoyed by the person getting griefed, including destroying of creations and stealing, is not allowed."
 
             - name: 7. Follow the official Modrinth server's rules.
               value:
